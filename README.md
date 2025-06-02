@@ -59,8 +59,5 @@ I'm currently focused on building responsive and interactive websites using mode
 - [LinkedIn](https://linkedin.com/in/sakshi1823)
 - 📧 Email: sakshi@example.com (replace with your email if you wish)
 
----
 
-### 😄 Fun Fact:
-I sometimes redesign apps I use daily — just for fun and practice!
 
