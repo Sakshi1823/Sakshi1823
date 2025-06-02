@@ -58,5 +58,9 @@ I'm currently focused on building responsive and interactive websites using mode
 - [LinkedIn](https://linkedin.com/in/sakshi1823)
 - 📧 Email: sakshi@example.com (replace with your email if you wish)
 
+---
 
+### 🧩 Contribution Graph
+
+![Sakshi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sakshi1823&theme=react-dark&hide_border=true)
 
