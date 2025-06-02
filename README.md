@@ -56,10 +56,10 @@ I'm currently focused on building responsive and interactive websites using mode
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/sakshi-hingamire-564953280/)
-
 ---
 
 ### 🧩 Contribution Graph
 
-![Sakshi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sakshi1823&theme=react-dark&hide_border=true)
+![Sakshi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakshi1823&theme=react-dark&hide_border=true)
+
 
