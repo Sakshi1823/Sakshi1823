@@ -10,7 +10,6 @@ I'm currently focused on building responsive and interactive websites using mode
 - ⚡ Developing dynamic and real-time dashboards using **React**
 - ⚡ Creating clean, accessible UIs with **Tailwind CSS** and **Figma**
 - ⚡ Exploring **Next.js** for better performance and SEO
-- ⚡ Learning **GSAP** for advanced animations and micro-interactions
 
 ---
 
