@@ -25,13 +25,11 @@
 
 ---
 
-## 🌸 About Me
-🌸 Web developer focused on **clean UI & scalable systems**  
-🌸 Strong foundation in **Java & DSA**  
-🌸 Building modern frontends with **React**  
-🌸 Backend development using **Node.js & Express**  
-🌸 Active **Open Source Contributor**  
-🌸 Learning something new every day  
+## About Me
+- 💡 Full Stack Developer building modern web applications  
+- 💡 Problem solver focused on **DSA**  
+- 💡 Open Source Contributor  
+
 
 ---
 
