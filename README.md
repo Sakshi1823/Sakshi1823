@@ -52,16 +52,21 @@
 
 ---
 
-## ⚡ GitHub Power Stats
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1823&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Sakshi1823&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1823&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi1823&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1823&layout=compact&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1823&theme=radical" width="98%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi1823&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
 
 ---
 
