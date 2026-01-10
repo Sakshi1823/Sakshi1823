@@ -16,15 +16,23 @@
   </a>
 </p> -->
 ## 🔗 Connect With Me
-<a href="https://www.linkedin.com/in/sakshi-hingamire-564953280/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sakshi_Hingamire-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://discord.com/users/1455578693731749973">
-  <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord"/>
-</a>
-<a href="mailto:hingamiresakshi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hingamiresakshi@gmail.com-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-hingamire-564953280/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/1455578693731749973" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hingamiresakshi@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sakshi1823" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+  </a>
+</p>
 
 
 ---
