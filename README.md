@@ -19,19 +19,19 @@
 <h3 align="center">🔗 Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshi-hingamire-564953280/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://discord.com/users/1455578693731749973" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="28" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:hingamiresakshi@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="28" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/Sakshi1823" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="28" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
