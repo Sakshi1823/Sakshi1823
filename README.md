@@ -77,14 +77,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi1823&theme=radical&no-frame=true&column=4&margin-w=10"/>
-</p>
-
-
----
-
 ## ✨ Motto
 <p align="center">
   <i>“Build with passion. Learn with purpose. Contribute with impact.”</i>
