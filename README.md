@@ -16,7 +16,7 @@
   </a>
 </p> -->
 
-<h3 align="center">🔗 Connect With Me</h3>
+<!-- <h3 align="center">🔗 Connect With Me</h3> -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshi-hingamire-564953280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
