@@ -15,24 +15,26 @@
     <img src="https://img.shields.io/badge/GitHub-Sakshi1823-181717?style=for-the-badge&logo=github"/>
   </a>
 </p> -->
-## 🔗 Connect With Me
+
+<h3 align="center">🔗 Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshi-hingamire-564953280/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="28" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/1455578693731749973" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="28" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:hingamiresakshi@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="28" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Sakshi1823" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="28" />
   </a>
 </p>
+
 
 
 ---
