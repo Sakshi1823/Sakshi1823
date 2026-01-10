@@ -79,8 +79,9 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi1823&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi1823&theme=radical&no-frame=true&column=4&margin-w=10"/>
 </p>
+
 
 ---
 
