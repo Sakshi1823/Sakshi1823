@@ -1,76 +1,94 @@
-<h1 align="center">Hi 👋, I'm Sakshi Hingamire</h1>
+<!-- HEADER -->
+<h1 align="center">
+  ✨ Sakshi Hingamire ✨
+</h1>
 
-<p align="center">
-  <b>Passionate Web Developer | Open Source Contributor</b>
-</p>
+<h3 align="center">
+  Passionate Web Developer • Open Source Contributor
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshi-hingamire-564953280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Hingamire-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Sakshi_Hingamire-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/Sakshi1823" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Sakshi1823-black?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Sakshi1823-181717?style=for-the-badge&logo=github"/>
   </a>
+</p>
+
+---
+
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontAlignY=35"/>
 </p>
 
 ---
 
 ## 🌸 About Me
-🌸 I build **web applications** using modern technologies  
-🌸 I enjoy **Java** and **DSA-based problem solving**  
-🌸 I create interactive frontends with **React**  
-🌸 I develop scalable backends using **Node.js & Express**  
-🌸 I actively contribute to **Open Source projects**  
-🌸 I believe in consistent learning and clean code  
+🌸 Web developer focused on **clean UI & scalable systems**  
+🌸 Strong foundation in **Java & DSA**  
+🌸 Building modern frontends with **React**  
+🌸 Backend development using **Node.js & Express**  
+🌸 Active **Open Source Contributor**  
+🌸 Learning something new every day  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Universe
 
 ### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-07405E?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql&theme=dark"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap&theme=dark"/>
 </p>
 
 ### 🛠️ Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## ⚡ GitHub Power Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1823&show_icons=true&theme=radical&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1823&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Sakshi1823&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Sakshi1823&theme=radical&cache_seconds=1800" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1823&layout=compact&theme=radical&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1823&layout=compact&theme=radical&hide_border=true" width="45%"/>
 </p>
 
 ---
 
+## 🚀 Contribution Graph
 <p align="center">
-  🌱 <i>Learning, building, and contributing every day</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi1823&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi1823&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## ✨ Motto
+<p align="center">
+  <i>“Build with passion. Learn with purpose. Contribute with impact.”</i>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
