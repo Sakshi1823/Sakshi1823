@@ -80,15 +80,6 @@ I'm actively looking for **remote internships and freelance projects**. If you h
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi1823&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi1823&theme=nord&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ### 📈 Contribution Activity
 
@@ -103,5 +94,5 @@ I'm actively looking for **remote internships and freelance projects**. If you h
 </p>
 
 <p align="center">
-  <b>Open to remote work & freelance ·</b> Reach me at <a href="mailto:hingamiresakshi@gmail.com">hingamiresakshi@gmail.com</a> or <a href="https://www.linkedin.com/in/sakshi-hingamire-">LinkedIn</a>
+  <b>Open to remote work & freelance ·</b> Reach me at <a href="https://www.linkedin.com/in/sakshi-hingamire-">LinkedIn</a>
 </p>
