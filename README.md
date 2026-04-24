@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sakshi 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · ECE Student @ VIT Pune · Open to Remote & Freelance</b>
+  <b>· Full Stack Developer · Open to Remote & Freelance</b>
 </p>
 
 <p align="center">
