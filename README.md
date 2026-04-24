@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sakshi 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · ECE Student @ VIT Pune · Building real things · Open to Remote & Freelance</b>
+  <b>Full Stack Developer · ECE Student @ VIT Pune · Open to Remote & Freelance</b>
 </p>
 
 <p align="center">
@@ -88,11 +88,6 @@ I'm actively looking for **remote internships and freelance projects**. If you h
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshi1823&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</p>
-
 <p align="center">
   <b>Open to remote work & freelance ·</b> Reach me at <a href="https://www.linkedin.com/in/sakshi-hingamire-">LinkedIn</a>
 </p>
