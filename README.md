@@ -1,111 +1,97 @@
-<!-- HEADER -->
-<h1 align="center">
-  ✨ Sakshi Hingamire ✨
-</h1>
+<h1 align="center">Hi, I'm Sakshi 👋</h1>
+<h3 align="center">Java Full Stack Developer · ECE Student @ VIT Pune · Open to Remote & Freelance</h3>
 
-<h3 align="center">
-  Passionate Web Developer • Open Source Contributor
-</h3>
-
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-hingamire-564953280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sakshi_Hingamire-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Sakshi1823" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Sakshi1823-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p> -->
-
-<!-- <h3 align="center">🔗 Connect With Me</h3> -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-hingamire-564953280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/1455578693731749973" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:hingamiresakshi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Sakshi1823" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
-
----
-
-<!-- HERO BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontAlignY=35"/>
+  <a href="https://www.linkedin.com/in/sakshi-hingamire-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/14555786937317499"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
 
-## About Me
-- 💡 Full Stack Developer building modern web applications  
-- 💡 Problem solver focused on **DSA**  
-- 💡 Open Source Contributor  
+### Who I am
 
+Third-year B.Tech ECE student at VIT Pune who got tired of just studying circuits and started building real software. I specialize in Java full stack development — REST APIs, Spring Boot backends, React frontends, and MySQL. I also bring an electronics lens to everything I build, which means I think about how software behaves in hardware-constrained environments too.
 
----
-
-## 🧠 Tech Universe
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql&theme=dark"/>
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap&theme=dark"/>
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark"/>
-</p>
+I'm actively looking for **remote internships and freelance projects**. If you have a problem that needs a full stack solution, let's talk.
 
 ---
 
-## 🔥 GitHub Stats
+### 🛠 Tech Stack
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1823&show_icons=true&theme=radical&hide_border=true" width="48%"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi1823&theme=radical&hide_border=true" width="48%"/>
-</p>
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat-square&logo=mysql&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1823&theme=radical" width="98%"/>
-</p>
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Sakshi1823&theme=radical&no-frame=true&row=1&column=6"/> -->
-</p>
-
-
----
-
-## 🚀 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi1823&theme=react-dark&hide_border=true"/>
-</p>
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## ✨ Motto
+### 🚀 Featured Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **[Project Name]** | One sentence — what it does and why it's useful | Java, Spring Boot, MySQL | [Live]() · [Code]() |
+| **[Project Name]** | One sentence — what it does and why it's useful | React, REST API | [Live]() · [Code]() |
+| **[Project Name]** | One sentence — what it does and why it's useful | IoT, Embedded | [Code]() |
+
+> 💡 *Fill these with your actual projects — even college mini-projects count if they're functional and deployed*
+
+---
+
+### ⚡ Currently
+
+- 🔨 Building: **[what you're working on right now]**
+- 📖 Learning: **[Spring Security / Docker / anything relevant]**
+- 👀 Looking for: Remote internships & freelance web development work
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <i>“Build with passion. Learn with purpose. Contribute with impact.”</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1823&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1823&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi1823&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-<!-- FOOTER -->
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi1823&theme=nord&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi1823&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sakshi1823&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <b>Open to remote work & freelance · Drop me a message on <a href="https://www.linkedin.com/in/sakshi-hingamire-">LinkedIn</a></b>
 </p>
