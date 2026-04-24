@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sakshi 👋</h1>
 
 <p align="center">
-  <b>Java Full Stack Developer · ECE Student @ VIT Pune · Building real things · Open to Remote & Freelance</b>
+  <b>Full Stack Developer · ECE Student @ VIT Pune · Building real things · Open to Remote & Freelance</b>
 </p>
 
 <p align="center">
@@ -12,11 +12,10 @@
 
 ---
 
-### Who I am
+### 
 
-Third-year B.Tech ECE student at VIT Pune who builds software end-to-end — from Arduino firmware to React frontends. I got into web development because circuits alone weren't enough; I wanted to see data move through an entire system, from sensor to screen.
-
-I specialize in **Java full stack development**, have a working IoT project connected to a live Firebase backend, and have explored NLP/ML on the side. I'm actively looking for **remote internships and freelance web projects** where I can ship real things.
+Third-year B.Tech ECE student at VIT Pune . I have strong foundation in Java and full stack development — REST APIs, Spring Boot backends, React frontends, and MySQL. 
+I'm actively looking for **remote internships and freelance projects**. If you have a problem that needs a full stack solution, let's talk.
 
 ---
 
