@@ -11,7 +11,7 @@
 
 ### Who I am
 
-Third-year B.Tech ECE student at VIT Pune who got tired of just studying circuits and started building real software. I specialize in Java full stack development — REST APIs, Spring Boot backends, React frontends, and MySQL. I also bring an electronics lens to everything I build, which means I think about how software behaves in hardware-constrained environments too.
+Third-year B.Tech ECE student at VIT Pune. I specialize in Java and full stack development — REST APIs, Spring Boot backends, React frontends, and MySQL. I also bring an electronics lens to everything I build, which means I think about how software behaves in hardware-constrained environments too.
 
 I'm actively looking for **remote internships and freelance projects**. If you have a problem that needs a full stack solution, let's talk.
 
