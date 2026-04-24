@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sakshi 👋</h1>
-<h3 align="center">Java Full Stack Developer · ECE Student @ VIT Pune · Open to Remote & Freelance</h3>
+<h3 align="center">Full Stack Developer · ECE Student @ VIT Pune · Open to Remote & Freelance</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshi-hingamire-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
