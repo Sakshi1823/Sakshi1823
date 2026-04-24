@@ -37,27 +37,6 @@ I'm actively looking for **remote internships and freelance projects**. If you h
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **[Project Name]** | One sentence — what it does and why it's useful | Java, Spring Boot, MySQL | [Live]() · [Code]() |
-| **[Project Name]** | One sentence — what it does and why it's useful | React, REST API | [Live]() · [Code]() |
-| **[Project Name]** | One sentence — what it does and why it's useful | IoT, Embedded | [Code]() |
-
-> 💡 *Fill these with your actual projects — even college mini-projects count if they're functional and deployed*
-
----
-
-### ⚡ Currently
-
-- 🔨 Building: **[what you're working on right now]**
-- 📖 Learning: **[Spring Security / Docker / anything relevant]**
-- 👀 Looking for: Remote internships & freelance web development work
-
----
 
 ### 📊 GitHub Stats
 
