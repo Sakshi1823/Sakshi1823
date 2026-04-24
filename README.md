@@ -63,9 +63,9 @@ I'm actively looking for **remote internships and freelance projects**. If you h
 ---
 ### ⚡ Currently
 
-- 🔨 Building: Exploring Spring Boot — building REST APIs and understanding the full backend lifecycle
-- 📖 Learning: DevOps (Docker & Kubernetes) · Agentic AI (CrewAI / LangChain workflows)
-- 👀 Open to: Remote internships · Freelance web projects · Open source contributions
+-  **Building**: Exploring Spring Boot — building REST APIs and understanding the full backend lifecycle
+-  **Learning**: DevOps (Docker & Kubernetes) · Agentic AI (CrewAI / LangChain workflows)
+-  **Open to**: Remote internships · Freelance web projects · Open source contributions
 
 ---
 
